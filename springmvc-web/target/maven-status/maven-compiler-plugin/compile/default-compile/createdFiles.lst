@@ -1,0 +1,13 @@
+com\shequ2\xms\dao\BaseDAO.class
+com\shequ2\xms\entity\RoleType.class
+com\shequ2\xms\entity\User.class
+com\shequ2\xms\dao\IUserDAO.class
+com\shequ2\xms\entity\PageBean.class
+com\shequ2\xms\entity\BaseEntity.class
+com\shequ2\xms\dao\IBaseDAO.class
+com\shequ2\xms\entity\SystemContext.class
+com\shequ2\xms\entity\UserGroup.class
+com\shequ2\xms\dao\UserDAO.class
+com\shequ2\xms\entity\UserRole.class
+com\shequ2\xms\entity\Group.class
+com\shequ2\xms\entity\Role.class
